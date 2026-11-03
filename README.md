@@ -19,8 +19,8 @@
 
 ## 下载
 
-到右侧的 **Releases**（发行版）下载 `ClassPetPark-v0.5.0-preview-win64.zip`，解压后双击
-`重生之我在班里养灵宠_v0.5.0预览版.exe` 就能用，不需要安装，也可以直接放在 U 盘上运行。
+到右侧的 **Releases**（发行版）下载 `ClassPetPark-v0.5.2-preview-win64.zip`，解压后双击
+`重生之我在班里养灵宠_v0.5.2预览版.exe` 就能用，不需要安装，也可以直接放在 U 盘上运行。
 
 - GitHub：<https://github.com/zhangzht-lab/lingchong-preview/releases>
 - Gitee（国内更快）：<https://gitee.com/zhang-bantao/lingchong-preview/releases>
